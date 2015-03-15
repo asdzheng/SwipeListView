@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipe_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.example.slidecutlistview.CustomSwipeListView
+        android:id="@+id/slideCutListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@drawable/reader_item_divider"
+        android:listSelector="@android:color/transparent" >
+    </com.example.slidecutlistview.CustomSwipeListView>
+
+</LinearLayout>

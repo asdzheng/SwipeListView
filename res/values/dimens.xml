@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- UndoDialog -->
+    <dimen name="cancel_dialog_height">45dp</dimen>
+    <dimen name="cancel_dialog_textview_size">14sp</dimen>
+
+</resources>
