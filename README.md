@@ -29,4 +29,4 @@ layout里
         
 ###代码的分析请看[我的博客介绍](http://blog.csdn.net/asdzheng/article/details/44278469)
 
-感谢这个开源项目提供源码(https://github.com/xyczero/custom-swipelistview
+感谢这个开源项目提供部分源码及思路[custom-swipelistview](https://github.com/xyczero/custom-swipelistview)
