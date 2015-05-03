@@ -1,4 +1,4 @@
-##这是一个仿知乎安卓客户端滑动删除撤销的List
+##这是一个仿知乎安卓客户端滑动删除撤销的ListView
 
 效果图：![Rendering](http://img.blog.csdn.net/20150426214820721)
 
